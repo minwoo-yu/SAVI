@@ -12,7 +12,7 @@ This project contains CT image reconstruction code utilizing Soft-DTW (Dynamic T
 *   [LEAP](https://github.com/llnl/LEAP) (if using Projector)
 
 ## Usage
-Just run the `DTW_demo_parallel.ipynb` notebook!!
+### Just run the `DTW_demo_parallel.ipynb` notebook!!
 Our approach does not require any training steps! (plug-and-playable)
 ![SAVI Overview](overview.png)
 
